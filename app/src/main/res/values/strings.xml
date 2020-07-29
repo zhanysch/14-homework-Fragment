@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments Home work 14</string>
+    <string name="add">add</string>
+    <string name="replace">replace</string>
+    <string name="remove">remove</string>
+    <color name="black">#2B2929</color>
+</resources>
